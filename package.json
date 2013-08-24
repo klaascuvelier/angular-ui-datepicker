@@ -1,0 +1,20 @@
+{
+  "name": "angular-ui-datepicker",
+  "version": "0.0.1",
+  "description": "Angular datepicker component.",
+  "author": "https://github.com/klaascuvelier/angular-ui-datepicker/graphs/contributors",
+  "license": "MIT",
+  "homepage": "http://angular-adaptive.github.io",
+  "main": "./src/ui-datepicker.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-karma": "*",
+    "grunt-contrib-jshint": "~0.2.0"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klaascuvelier/angular-ui-datepicker"
+  }
+}
